@@ -6,7 +6,7 @@
 :video_game: **Fan de los videojuegos, la bici y curramba !!!**
 :family: **Mi mayor tesoro**
 
-## Vias de contacto
+### Vias de contacto
 
 :email: **harold2352@yahoo.com**
 
