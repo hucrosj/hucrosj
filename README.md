@@ -1,9 +1,13 @@
 ## Hi there 👋
 
 :computer: **Estudio para Full Stack Developer con JavaScript en Platzi**
+
 :pencil: **Editor de Postproducción**
+
 :eyeglasses: **Amante del código**
+
 :video_game: **Fan de los videojuegos, la bici y curramba !!!**
+
 :family: **Mi mayor tesoro**
 
 ## Vias de contacto
