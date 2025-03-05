@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Harold Ucros 👋
 
 :computer: **Estudio para Full Stack Developer con JavaScript en Platzi**
 
