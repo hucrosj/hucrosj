@@ -15,3 +15,8 @@
 :email: **harold2352@yahoo.com**
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hucrosj/hucrosj)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
