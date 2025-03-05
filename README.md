@@ -17,5 +17,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hucrosj/hucrosj)
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
